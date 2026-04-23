@@ -1,26 +1,8 @@
 {
   "qq_number": "2545822524",
   "group_number": "1071672744",
-  "updated_at": "2026-04-22T16:19:15.331243",
+  "updated_at": "2026-04-23T15:52:35.693940",
   "skins": [
-    {
-      "name": "小鼻嘎贴贴",
-      "file": "小鼻嘎贴贴.bds",
-      "thumb": "小鼻嘎贴贴.bds_py_26_light_thumb.png",
-      "full": "小鼻嘎贴贴.bds_py_26_light.png"
-    },
-    {
-      "name": "栗丨圣痕镌刻",
-      "file": "栗の圣痕镌刻②.bds",
-      "thumb": "栗の圣痕镌刻②.bds_py_26_light_thumb.png",
-      "full": "栗の圣痕镌刻②.bds_py_26_light.png"
-    },
-    {
-      "name": "栗丨圣痕镌刻①",
-      "file": "栗の圣痕镌刻①.bds",
-      "thumb": "栗の圣痕镌刻①.bds_py_26_light_thumb.png",
-      "full": "栗の圣痕镌刻①.bds_py_26_light.png"
-    },
     {
       "name": "乐妍底包",
       "file": "栗の圣痕镌刻.bdi",
@@ -38,6 +20,24 @@
       "file": "栗の圣痕镌刻②.bdi",
       "thumb": "栗の圣痕镌刻②.bdi_py_26_light_thumb.png",
       "full": "栗の圣痕镌刻②.bdi_py_26_light.png"
+    },
+    {
+      "name": "小鼻嘎贴贴",
+      "file": "小鼻嘎贴贴.bds",
+      "thumb": "小鼻嘎贴贴.bds_py_26_light_thumb.png",
+      "full": "小鼻嘎贴贴.bds_py_26_light.png"
+    },
+    {
+      "name": "栗丨圣痕镌刻",
+      "file": "栗の圣痕镌刻②.bds",
+      "thumb": "栗の圣痕镌刻②.bds_py_26_light_thumb.png",
+      "full": "栗の圣痕镌刻②.bds_py_26_light.png"
+    },
+    {
+      "name": "栗丨圣痕镌刻①",
+      "file": "栗の圣痕镌刻①.bds",
+      "thumb": "栗の圣痕镌刻①.bds_py_26_light_thumb.png",
+      "full": "栗の圣痕镌刻①.bds_py_26_light.png"
     }
   ]
 }

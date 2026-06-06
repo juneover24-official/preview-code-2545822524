@@ -1,13 +1,19 @@
 {
   "qq_number": "2545822524",
   "group_number": "1082684593",
+  "updated_at": "2026-06-06T12:09:10+00:00",
   "skins": [
     {
       "name": "宵春天的第12封信音二",
       "file": "宵春天的第12封信音二.bdi",
       "thumb": "宵春天的第12封信音二.bdi_py_26_light_thumb.png",
       "full": "宵春天的第12封信音二.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "宵 春天的第12封信 音二",
+      "file": "宵春天的第12封信音二.bds",
+      "thumb": "宵春天的第12封信音二.bds_py_26_light_thumb.png",
+      "full": "宵春天的第12封信音二.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-06T12:08:52+00:00"
+  ]
 }

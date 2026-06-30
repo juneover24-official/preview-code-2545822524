@@ -1,7 +1,7 @@
 {
   "qq_number": "2545822524",
   "group_number": "1082684593",
-  "updated_at": "2026-06-30T10:06:16+00:00",
+  "updated_at": "2026-06-30T10:06:28+00:00",
   "skins": [
     {
       "name": "宵春天的第12封信音二",
@@ -44,6 +44,12 @@
       "file": "宵の萌物颜文字音二-无背景.bdi",
       "thumb": "宵の萌物颜文字音二-无背景.bdi_py_26_light_thumb.png",
       "full": "宵の萌物颜文字音二-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "宵の萌物颜文字音一",
+      "file": "宵の萌物颜文字音一.bdi",
+      "thumb": "宵の萌物颜文字音一.bdi_py_26_light_thumb.png",
+      "full": "宵の萌物颜文字音一.bdi_py_26_light_thumb.png"
     }
   ]
 }

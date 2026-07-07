@@ -1,7 +1,7 @@
 {
   "qq_number": "2545822524",
   "group_number": "1082684593",
-  "updated_at": "2026-07-03T13:22:27+00:00",
+  "updated_at": "2026-07-07T11:57:10+00:00",
   "skins": [
     {
       "name": "宵春天的第12封信音二",
@@ -74,6 +74,12 @@
       "file": "biscuitの抹茶町②-无背景.bdi",
       "thumb": "biscuitの抹茶町②-无背景.bdi_py_26_light_thumb.png",
       "full": "biscuitの抹茶町②-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "宵の灰调爱心 音一",
+      "file": "宵の灰调爱心音二.bdi",
+      "thumb": "宵の灰调爱心音二.bdi_py_26_light_thumb.png",
+      "full": "宵の灰调爱心音二.bdi_py_26_light_thumb.png"
     }
   ]
 }
